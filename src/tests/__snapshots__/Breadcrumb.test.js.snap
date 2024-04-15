@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-beySPh lfQFTY"
+    role="navigation"
+  >
+    <div
+      class="sc-guDLey jxfJxm"
+    >
+      Home Page &gt; e-learning Courses
+    </div>
+    <div
+      class="sc-dmyCSP dNelWX"
+    >
+      admin
+    </div>
+  </div>
+</div>
+`;

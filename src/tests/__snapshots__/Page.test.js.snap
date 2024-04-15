@@ -1,0 +1,779 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-beySPh iaasY"
+  >
+    <header
+      class="sc-jsEeTM eDsVzz"
+      role="header"
+    >
+      <div
+        style="margin-left: auto;"
+      >
+        <img
+          alt="Logo"
+          class="sc-kFCroH bCNGXA"
+          src="logo.png"
+        />
+      </div>
+    </header>
+    <div
+      class="sc-guDLey iANoJa"
+    >
+      <div
+        class="sc-iBdnpw isdrGf"
+        role="navigation"
+      >
+        <div
+          class="sc-fsYfdN hcbhMM"
+        >
+          Home Page &gt; e-learning Courses
+        </div>
+        <div
+          class="sc-qZrbh jUQpTo"
+        >
+          admin
+        </div>
+      </div>
+      <div
+        class="sc-dmyCSP jQvdql"
+      >
+        <div>
+          <div
+            class="sc-hLQSwg dFlxsQ"
+            data-testid="sidebar-container"
+          >
+            <div
+              class="sc-brSamD gpfMpC"
+            >
+              <span
+                class="sc-ktwOfi fZZAWh"
+              >
+                Navigation
+              </span>
+            </div>
+            <div
+              class="sc-irLvIq fAxuAv"
+            >
+              <img
+                alt="Sidebar Icon"
+                class="sc-csKJxZ jSIkBz"
+                src="fraud_prevention.png"
+              />
+              <span
+                class="sc-eTNRI hmkImP"
+              >
+                Money Laundering and Fraud Prevention
+              </span>
+            </div>
+            <div
+              class="sc-irLvIq fAxuAv"
+            >
+              <img
+                alt="Sidebar Icon"
+                class="sc-csKJxZ jSIkBz"
+                src="it_security.png"
+              />
+              <span
+                class="sc-eTNRI hmkImP"
+              >
+                It security and information security
+              </span>
+            </div>
+            <div
+              class="sc-irLvIq fAxuAv"
+            >
+              <img
+                alt="Sidebar Icon"
+                class="sc-csKJxZ jSIkBz"
+                src="data_protection.png"
+              />
+              <span
+                class="sc-eTNRI hmkImP"
+              >
+                Data Protection
+              </span>
+            </div>
+            <div
+              class="sc-irLvIq fAxuAv"
+            >
+              <img
+                alt="Sidebar Icon"
+                class="sc-csKJxZ jSIkBz"
+                src="wphg.png"
+              />
+              <span
+                class="sc-eTNRI hmkImP"
+              >
+                WpHG-Compliance
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-eDLKkx ljmiTC"
+          >
+            <div
+              class="sc-brSamD gpfMpC"
+            >
+              <span
+                class="sc-ktwOfi fZZAWh"
+              >
+                Contact
+              </span>
+            </div>
+            <div
+              class="sc-hABBmJ bQekle"
+            >
+              <h2
+                class="sc-fmKFGs ddUldL"
+              >
+                Technical support
+              </h2>
+              <p
+                class="sc-fHejqy jQsmWC"
+              >
+                John Doe
+              </p>
+              <p
+                class="sc-blmEgr hAmYlH"
+              >
+                <a
+                  href="mailto:it@example.com"
+                >
+                  it@example.com
+                </a>
+              </p>
+            </div>
+            <div
+              class="sc-hABBmJ bQekle"
+            >
+              <h2
+                class="sc-fmKFGs ddUldL"
+              >
+                Content-didactic topic
+              </h2>
+              <p
+                class="sc-fHejqy jQsmWC"
+              >
+                Jane Roe
+              </p>
+              <p
+                class="sc-blmEgr hAmYlH"
+              >
+                <a
+                  href="mailto:content@example.com"
+                >
+                  content@example.com
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-jTQCzO jCSwbN"
+        >
+          <h2
+            class="sc-gLLuof iXPJW"
+          >
+            e-Learning Courses
+          </h2>
+          <div
+            class="sc-ifyrAs gVdpuJ"
+          >
+            <img
+              alt="Content Image"
+              class="sc-dJGMql dfrAFT"
+              src="fraud_prevention.png"
+            />
+            <div
+              class="sc-hIPBNq eOMWXZ"
+            >
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Intensification of money laundering prevention - private customer advice
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    30min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Basic Training - Prevention of Money Laundering and Terrorist Financing (V3.0)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    44min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Advanced Training - Prevention of Money Laundering and Terrorist Financing (V3.0)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    22min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-ifyrAs gVdpuJ"
+          >
+            <img
+              alt="Content Image"
+              class="sc-dJGMql dfrAFT"
+              src="it_security.png"
+            />
+            <div
+              class="sc-hIPBNq eOMWXZ"
+            >
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  IT security basics (V1.01.3)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    40min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    March 14, 2024
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Basic training IT security and information security (V1.0)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    60min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Advanced Training IT Security and Information Security (V1.1)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    29min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-ifyrAs gVdpuJ"
+          >
+            <img
+              alt="Content Image"
+              class="sc-dJGMql dfrAFT"
+              src="data_protection.png"
+            />
+            <div
+              class="sc-hIPBNq eOMWXZ"
+            >
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Basic training data protection (V2.0)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    0min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Privacy Basics (V1.00.2)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    40min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  In-depth training on data protection (V1.0)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    51min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  Privacy Basics 1.0
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    40min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(255, 212, 50, 0.91); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-ifyrAs gVdpuJ"
+          >
+            <img
+              alt="Content Image"
+              class="sc-dJGMql dfrAFT"
+              src="wphg.png"
+            />
+            <div
+              class="sc-hIPBNq eOMWXZ"
+            >
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  WpHG compliance basics (V1.00.3)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    30min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-dmXWDj hpDTRJ"
+              >
+                <div
+                  class="sc-khjJXk gEHUQP"
+                >
+                  In-depth WpHG -sales representative (V1.00.2)
+                </div>
+                <div
+                  class="sc-fLseNd gTeXwn"
+                >
+                  <div>
+                    30min
+                  </div>
+                  <div>
+                    To be done by:
+                  </div>
+                </div>
+                <div>
+                  <div
+                    class="sc-bBkKde gAXcAj"
+                  >
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                    <div
+                      style="background-color: rgba(48, 51, 48, 0.231); width: 20px; height: 20px; border-radius: 50%; margin-right: 5px;"
+                    />
+                  </div>
+                  <div
+                    class="sc-iuOOrT kamwzb"
+                  >
+                    -
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

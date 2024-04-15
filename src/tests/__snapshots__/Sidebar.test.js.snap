@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-beySPh mfxcz"
+  >
+    <img
+      alt="Sidebar Icon"
+      class="sc-guDLey gmJwRK"
+    />
+    <span
+      class="sc-dmyCSP fCRwGn"
+    />
+  </div>
+</div>
+`;
